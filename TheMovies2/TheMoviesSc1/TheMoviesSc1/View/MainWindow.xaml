@@ -1,0 +1,23 @@
+﻿<Window x:Class="TheMoviesSc1.View.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Left Panel for Navigation -->
+        <StackPanel Grid.Column="0" Background="Black" VerticalAlignment="Center">
+            <Button Content="Register Film" Name="RegisterFilmButton" Margin="10" Foreground="White" Background="Gray" Click="RegisterMovieButton_Click"/>
+            <Button Content="Cinema Program" Name="CinemaProgramButton" Margin="10" Foreground="White" Background="Gray" />
+            <Button Content="Booking System" Name="BookingSystemButton" Margin="10" Foreground="White" Background="Gray"/>
+        </StackPanel>
+
+        <!-- Main Content Area -->
+        <StackPanel Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Text="Welcome to Cinema Management System" FontSize="24" FontWeight="Bold" HorizontalAlignment="Center" Margin="20"/>
+        </StackPanel>
+    </Grid>
+</Window>

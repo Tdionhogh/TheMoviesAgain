@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\burak\\source\\repos\\TheMoviesAgain\\TheMovies2\\TheMoviesSc1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6267EE12-44FD-446A-A6AF-9A6CBD53383E}|TheMoviesSc1\\TheMoviesSc1.csproj|c:\\users\\burak\\source\\repos\\themoviesagain\\themovies2\\themoviessc1\\themoviessc1\\view\\registermoviepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6267EE12-44FD-446A-A6AF-9A6CBD53383E}|TheMoviesSc1\\TheMoviesSc1.csproj|solutionrelative:themoviessc1\\view\\registermoviepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6267EE12-44FD-446A-A6AF-9A6CBD53383E}|TheMoviesSc1\\TheMoviesSc1.csproj|c:\\users\\burak\\source\\repos\\themoviesagain\\themovies2\\themoviessc1\\themoviessc1\\view\\registermoviepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6267EE12-44FD-446A-A6AF-9A6CBD53383E}|TheMoviesSc1\\TheMoviesSc1.csproj|solutionrelative:themoviessc1\\view\\registermoviepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6267EE12-44FD-446A-A6AF-9A6CBD53383E}|TheMoviesSc1\\TheMoviesSc1.csproj|c:\\users\\burak\\source\\repos\\themoviesagain\\themovies2\\themoviessc1\\themoviessc1\\view\\registermoviewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6267EE12-44FD-446A-A6AF-9A6CBD53383E}|TheMoviesSc1\\TheMoviesSc1.csproj|solutionrelative:themoviessc1\\view\\registermoviewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6267EE12-44FD-446A-A6AF-9A6CBD53383E}|TheMoviesSc1\\TheMoviesSc1.csproj|c:\\users\\burak\\source\\repos\\themoviesagain\\themovies2\\themoviessc1\\themoviessc1\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6267EE12-44FD-446A-A6AF-9A6CBD53383E}|TheMoviesSc1\\TheMoviesSc1.csproj|solutionrelative:themoviessc1\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6267EE12-44FD-446A-A6AF-9A6CBD53383E}|TheMoviesSc1\\TheMoviesSc1.csproj|c:\\users\\burak\\source\\repos\\themoviesagain\\themovies2\\themoviessc1\\themoviessc1\\view\\registermoviewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6267EE12-44FD-446A-A6AF-9A6CBD53383E}|TheMoviesSc1\\TheMoviesSc1.csproj|solutionrelative:themoviessc1\\view\\registermoviewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6267EE12-44FD-446A-A6AF-9A6CBD53383E}|TheMoviesSc1\\TheMoviesSc1.csproj|c:\\users\\burak\\source\\repos\\themoviesagain\\themovies2\\themoviessc1\\themoviessc1\\model\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6267EE12-44FD-446A-A6AF-9A6CBD53383E}|TheMoviesSc1\\TheMoviesSc1.csproj|solutionrelative:themoviessc1\\model\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6267EE12-44FD-446A-A6AF-9A6CBD53383E}|TheMoviesSc1\\TheMoviesSc1.csproj|c:\\users\\burak\\source\\repos\\themoviesagain\\themovies2\\themoviessc1\\themoviessc1\\model\\datahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6267EE12-44FD-446A-A6AF-9A6CBD53383E}|TheMoviesSc1\\TheMoviesSc1.csproj|solutionrelative:themoviessc1\\model\\datahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6267EE12-44FD-446A-A6AF-9A6CBD53383E}|TheMoviesSc1\\TheMoviesSc1.csproj|c:\\users\\burak\\source\\repos\\themoviesagain\\themovies2\\themoviessc1\\themoviessc1\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6267EE12-44FD-446A-A6AF-9A6CBD53383E}|TheMoviesSc1\\TheMoviesSc1.csproj|solutionrelative:themoviessc1\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6267EE12-44FD-446A-A6AF-9A6CBD53383E}|TheMoviesSc1\\TheMoviesSc1.csproj|c:\\users\\burak\\source\\repos\\themoviesagain\\themovies2\\themoviessc1\\themoviessc1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6267EE12-44FD-446A-A6AF-9A6CBD53383E}|TheMoviesSc1\\TheMoviesSc1.csproj|solutionrelative:themoviessc1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\TheMoviesAgain\\TheMovies2\\TheMoviesSc1\\TheMoviesSc1\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TheMoviesSc1\\View\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\TheMoviesAgain\\TheMovies2\\TheMoviesSc1\\TheMoviesSc1\\View\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TheMoviesSc1\\View\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T17:43:19.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\TheMoviesAgain\\TheMovies2\\TheMoviesSc1\\TheMoviesSc1\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TheMoviesSc1\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\TheMoviesAgain\\TheMovies2\\TheMoviesSc1\\TheMoviesSc1\\View\\MainWindow.xaml",
+              "RelativeToolTip": "TheMoviesSc1\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-25T17:41:28.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterMovieWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\TheMoviesAgain\\TheMovies2\\TheMoviesSc1\\TheMoviesSc1\\View\\RegisterMovieWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TheMoviesSc1\\View\\RegisterMovieWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\TheMoviesAgain\\TheMovies2\\TheMoviesSc1\\TheMoviesSc1\\View\\RegisterMovieWindow.xaml.cs",
+              "RelativeToolTip": "TheMoviesSc1\\View\\RegisterMovieWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T18:32:05.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\TheMoviesAgain\\TheMovies2\\TheMoviesSc1\\TheMoviesSc1\\Model\\Movie.cs",
+              "RelativeDocumentMoniker": "TheMoviesSc1\\Model\\Movie.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\TheMoviesAgain\\TheMovies2\\TheMoviesSc1\\TheMoviesSc1\\Model\\Movie.cs",
+              "RelativeToolTip": "TheMoviesSc1\\Model\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T18:45:30.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataHandler.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\TheMoviesAgain\\TheMovies2\\TheMoviesSc1\\TheMoviesSc1\\Model\\DataHandler.cs",
+              "RelativeDocumentMoniker": "TheMoviesSc1\\Model\\DataHandler.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\TheMoviesAgain\\TheMovies2\\TheMoviesSc1\\TheMoviesSc1\\Model\\DataHandler.cs",
+              "RelativeToolTip": "TheMoviesSc1\\Model\\DataHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAD4vxoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T18:46:27.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterMoviePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\TheMoviesAgain\\TheMovies2\\TheMoviesSc1\\TheMoviesSc1\\View\\RegisterMoviePage.xaml.cs",
+              "RelativeDocumentMoniker": "TheMoviesSc1\\View\\RegisterMoviePage.xaml.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\TheMoviesAgain\\TheMovies2\\TheMoviesSc1\\TheMoviesSc1\\View\\RegisterMoviePage.xaml.cs",
+              "RelativeToolTip": "TheMoviesSc1\\View\\RegisterMoviePage.xaml.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAtwC4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T18:31:12.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterMoviePage.xaml",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\TheMoviesAgain\\TheMovies2\\TheMoviesSc1\\TheMoviesSc1\\View\\RegisterMoviePage.xaml",
+              "RelativeDocumentMoniker": "TheMoviesSc1\\View\\RegisterMoviePage.xaml",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\TheMoviesAgain\\TheMovies2\\TheMoviesSc1\\TheMoviesSc1\\View\\RegisterMoviePage.xaml",
+              "RelativeToolTip": "TheMoviesSc1\\View\\RegisterMoviePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-25T18:30:54.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterMovieWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\TheMoviesAgain\\TheMovies2\\TheMoviesSc1\\TheMoviesSc1\\View\\RegisterMovieWindow.xaml",
+              "RelativeDocumentMoniker": "TheMoviesSc1\\View\\RegisterMovieWindow.xaml",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\TheMoviesAgain\\TheMovies2\\TheMoviesSc1\\TheMoviesSc1\\View\\RegisterMovieWindow.xaml",
+              "RelativeToolTip": "TheMoviesSc1\\View\\RegisterMovieWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-25T17:41:47.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\TheMoviesAgain\\TheMovies2\\TheMoviesSc1\\TheMoviesSc1\\App.xaml.cs",
+              "RelativeDocumentMoniker": "TheMoviesSc1\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\TheMoviesAgain\\TheMovies2\\TheMoviesSc1\\TheMoviesSc1\\App.xaml.cs",
+              "RelativeToolTip": "TheMoviesSc1\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T17:40:58.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

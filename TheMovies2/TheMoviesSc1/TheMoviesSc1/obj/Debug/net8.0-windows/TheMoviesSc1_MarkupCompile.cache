@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\tdhog\Source\Repos\TheMovies2\TheMoviesSc1\TheMoviesSc1\obj\Debug\net8.0-windows\
+C:\Users\burak\source\repos\TheMoviesAgain\TheMovies2\TheMoviesSc1\TheMoviesSc1\obj\Debug\net8.0-windows\
 TheMoviesSc1
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\tdhog\Source\Repos\TheMovies2\TheMoviesSc1\TheMoviesSc1\App.xaml
-2533695140
+C:\Users\burak\source\repos\TheMoviesAgain\TheMovies2\TheMoviesSc1\TheMoviesSc1\App.xaml
+31773569485
 
-10-1054257433
+11472669291
 198-556154604
-View\MainWindow.xaml;View\RegisterMovieWindow.xaml;
+View\MainWindow.xaml;View\RegisterMoviePage.xaml;View\RegisterMovieWindow.xaml;
 
 False
 

@@ -11,6 +11,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using TheMoviesSc1.Model;
 
 
 namespace TheMoviesSc1.View
@@ -18,15 +19,21 @@ namespace TheMoviesSc1.View
 {
     public partial class MainWindow : Window
     {
+       
+
         public MainWindow()
         {
             InitializeComponent();
+
+            
         }
 
-        private void RegisterMovieButton_Click(object sender, RoutedEventArgs e)
+       
+
+        private void RegisterFilm_Click(object sender, RoutedEventArgs e)
         {
-            RegisterFilmWindow registerMovieWindow = new RegisterFilmWindow();
-            registerMovieWindow.Show();
+            OneFrame.Navigate(new RegisterMoviePage());
+            Introtekst.Visibility = Visibility.Hidden;
         }
     }
 }

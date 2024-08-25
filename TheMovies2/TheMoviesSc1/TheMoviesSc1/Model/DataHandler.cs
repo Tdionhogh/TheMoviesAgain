@@ -12,17 +12,23 @@ namespace TheMoviesSc1.Model
         private string _fileName;
 
         public string FileName
-        { get { return _fileName; } set { _fileName = value; } }
+        { 
+            get { return _fileName; } 
+            set { _fileName = value; } 
+        }
 
+        public DataHandler(string filePath)
+        {
+            _fileName = filePath;
+        }
         
 
-        public List<Movie> GetMovies(string _fileName)
+        public List<Movie> GetMovies()
 		{
             List<Movie> movies = new();
 
             try
             {
-                DataHandler handler = new();
 
                 using (StreamReader sr = new StreamReader(_fileName))
                 {
@@ -32,25 +38,25 @@ namespace TheMoviesSc1.Model
                     {
                         string[] lineArray = line.Split(";");
 
-                        Movie movie = new Movie((lineArray[0]), (lineArray[1]), (lineArray[2]));
+                        if ( lineArray.Length>=3)
+                        {
+                            Movie movie = new Movie((lineArray[0]), (lineArray[1]), (lineArray[2]));
 
-                        movies.Add(movie);
+                            movies.Add(movie);
+                            
+                        }
                     }
                 }
 
             }
             catch (Exception ex)
             {
-
+                Console.WriteLine($"An error occurred: {ex.Message}");
                 throw;
             }
 
             return movies;
         }
-
-	
-
-        
 
     }
 }

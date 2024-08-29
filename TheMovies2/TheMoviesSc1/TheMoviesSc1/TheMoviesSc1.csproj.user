@@ -7,24 +7,24 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="View\CreateCinemaProgramPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="View\MainWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="View\RegisterMoviePage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="View\RegisterMovieWindow.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="View\CreateCinemaProgramPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="View\MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="View\RegisterMoviePage.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="View\RegisterMovieWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

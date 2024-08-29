@@ -12,6 +12,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 using TheMoviesSc1.Model;
+using TheMoviesSc1.View;
+using TheMoviesSc1.ViewModel;
 
 
 namespace TheMoviesSc1.View
@@ -32,8 +34,27 @@ namespace TheMoviesSc1.View
 
         private void RegisterFilm_Click(object sender, RoutedEventArgs e)
         {
-            OneFrame.Navigate(new RegisterMoviePage());
+            
+
+            OneFrame.Navigate(new RegisterMoviePage()); 
+           OneFrame.Visibility = Visibility.Visible;
+            TwoFrame.Visibility = Visibility.Collapsed; 
+
             Introtekst.Visibility = Visibility.Hidden;
+        }
+
+        private void LaveProgram_Click(object sender, RoutedEventArgs e)
+        {
+            
+
+            // Navigate to CreateCinemaProgramPage in TwoFrame
+            TwoFrame.Navigate(new CreateCinemaProgramPage());
+            TwoFrame.Visibility = Visibility.Visible;  // Show TwoFrame
+            OneFrame.Visibility = Visibility.Collapsed; // Hide OneFrame
+
+            // Hide the intro text
+            Introtekst.Visibility = Visibility.Hidden;
+
         }
     }
 }

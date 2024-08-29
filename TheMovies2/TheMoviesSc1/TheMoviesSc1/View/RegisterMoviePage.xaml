@@ -7,8 +7,12 @@
       mc:Ignorable="d" 
       d:DesignHeight="600" d:DesignWidth="1000"
       Title="RegisterMoviePage">
+    
 
     <Grid>
+        
+
+        
         <!-- Main Content Area for Film Management -->
         <Grid Grid.Column="1" Margin="20,0,0,0" VerticalAlignment="Center" HorizontalAlignment="Left">
             <Grid.RowDefinitions>

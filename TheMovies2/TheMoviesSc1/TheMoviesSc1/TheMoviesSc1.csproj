@@ -8,4 +8,12 @@
 		<UseWPF>true</UseWPF>
 	</PropertyGroup>
 
+	<ItemGroup>
+	  <Compile Remove="View\RegisterMovieWindow.xaml.cs" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Page Remove="View\RegisterMovieWindow.xaml" />
+	</ItemGroup>
+
 </Project>

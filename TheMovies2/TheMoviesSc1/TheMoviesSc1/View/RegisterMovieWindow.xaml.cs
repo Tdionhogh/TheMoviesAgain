@@ -1,4 +1,4 @@
-﻿using System.Windows;
+﻿using System.Windows;/*
 using TheMoviesSc1.Model;
 
 namespace TheMoviesSc1.View
@@ -38,7 +38,7 @@ namespace TheMoviesSc1.View
                 RegisterFilmWindow registerFilmWindow = new RegisterFilmWindow();
                 registerFilmWindow.Show();
             }
-        }
-    }
+        }*/
+    
 
 

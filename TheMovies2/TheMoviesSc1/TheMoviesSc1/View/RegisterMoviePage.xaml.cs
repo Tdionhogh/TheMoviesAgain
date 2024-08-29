@@ -82,13 +82,13 @@ namespace TheMoviesSc1.View
             GenreTextBox.Clear();
             DurationTextBox.Clear();
         }
-
+/*
         private void RegisterFilmButton_Click(object sender, RoutedEventArgs e)
         {
 
             RegisterFilmWindow registerFilmWindow = new RegisterFilmWindow();
-            registerFilmWindow.Show();
+            registerFilmWindow.Show();*/
         }
     }
-}
+
 

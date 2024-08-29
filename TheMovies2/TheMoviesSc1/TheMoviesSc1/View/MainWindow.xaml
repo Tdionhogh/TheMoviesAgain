@@ -10,7 +10,7 @@
             <StackPanel DockPanel.Dock="Bottom" Width="200" HorizontalAlignment="Left">
 
                 <Button x:Name="btnRegistrereFilm" HorizontalAlignment="Center" FontSize="20" Foreground="White" Background="#282828" BorderThickness="0" Content="Registrere film" Click="RegisterFilm_Click" Height="200"  Width="200"/>
-                <Button x:Name="btnLaveProgram" HorizontalAlignment="Center" FontSize="20" Foreground="White" Background="#282828" BorderThickness="0" Content="Lave program"  Height="200" Width="200" />
+                <Button x:Name="btnLaveProgram" HorizontalAlignment="Center" FontSize="20" Foreground="White" Background="#282828" BorderThickness="0" Content="Lave program"  Height="200" Width="200" Click="LaveProgram_Click" />
                 <Button x:Name="btnBookingsystem" HorizontalAlignment="Center" FontSize="20" Foreground="White" Background="#282828" BorderThickness="0" Content="Bookingsystem"  Height="200" Width="200" />
 
             </StackPanel>
@@ -20,7 +20,9 @@
         <!-- Main Content Area -->
 
         <Frame x:Name="OneFrame" NavigationUIVisibility="Hidden" Width="1000" HorizontalAlignment="Right" Background="White"/>
-  
+
+        <Frame x:Name="TwoFrame" NavigationUIVisibility="Hidden" Width="1000" HorizontalAlignment="Right" Background="White"/>
+
         <TextBlock Text="Welcome to Cinema Management System" x:Name="Introtekst" FontSize="24" Margin="200,0,0,0" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center"/>
     </Grid>
 </Window>

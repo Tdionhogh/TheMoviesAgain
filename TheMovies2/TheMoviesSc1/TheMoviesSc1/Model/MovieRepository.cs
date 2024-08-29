@@ -3,6 +3,12 @@
 public class MovieRepository : IMovieRepository
 {
     private List<Movie> movies = new List<Movie>();
+    private readonly DataHandler dataHandler;
+
+    public MovieRepository(string filePath)
+    {
+        dataHandler = new DataHandler(filePath);
+    }
 
     public void Add(Movie movie)
     {
@@ -17,6 +23,11 @@ public class MovieRepository : IMovieRepository
     public List<Movie> GetAllMovies()
     {
         return movies;
+    }
+
+    public void SaveMovies(List<Movie> movies)
+    {
+        dataHandler.SaveMovies(movies);
     }
 }
 

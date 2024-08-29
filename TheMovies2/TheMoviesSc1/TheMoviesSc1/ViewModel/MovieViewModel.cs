@@ -9,7 +9,8 @@ public class MovieViewModel
 
     public MovieViewModel()
     {
-        _movieRepository = new MovieRepository();
+        string filePath = "Uge33-TheMovies-Team5.csv";
+        _movieRepository = new MovieRepository(filePath);
         Movies = new List<Movie>(_movieRepository.GetAllMovies());
     }
 
@@ -23,6 +24,11 @@ public class MovieViewModel
     {
         _movieRepository.Remove(movie);
         Movies.Remove(movie);  // Opdaterer UI'et
+    }
+
+    public void SaveMovies()
+    {
+        _movieRepository.SaveMovies(_movieRepository.GetAllMovies()); //Gemmer filmene
     }
 }
 

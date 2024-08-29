@@ -21,7 +21,18 @@ namespace TheMoviesSc1.Model
         {
             _fileName = filePath;
         }
-        
+
+        public void SaveMovies(List<Movie> movies)
+        {
+            using (StreamWriter outputFile = new StreamWriter(_fileName, append: true))
+            {
+                foreach (Movie movie in movies)
+                {
+                    outputFile.WriteLine($"{movie.Name};{movie.Genre};{movie.Duration}");
+                }
+            }
+        }
+
 
         public List<Movie> GetMovies()
 		{

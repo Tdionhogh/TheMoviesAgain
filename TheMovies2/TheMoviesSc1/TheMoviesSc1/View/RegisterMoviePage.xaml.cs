@@ -73,6 +73,9 @@ namespace TheMoviesSc1.View
                 DurationTextBox.Text);
 
             _viewModel.AddMovie(newMovie);
+            _viewModel.SaveMovies();
+            LoadMoviesToDataGrid();
+
             MessageBox.Show("Film added successfully!");
         }
 

@@ -75,7 +75,7 @@ namespace TheMoviesSc1.View
             using (StreamWriter writer = new StreamWriter(filePath, true)) // true for appending to the file
             {
                 // Writing data in CSV format
-                writer.WriteLine($"{program.CinemaName},{program.PlayingTime},{program.Screen},{program.City},{program.PremiereDate},{program.Movie.Name},{program.Movie.Genre},{program.Movie.Duration}");
+                writer.WriteLine($"{program.CinemaName};{program.PlayingTime};{program.Screen};{program.City};{program.PremiereDate};{program.Movie.Name};{program.Movie.Genre};{program.Movie.Duration}");
             }
         }
 

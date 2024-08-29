@@ -9,26 +9,26 @@
       Title="CreateCinemaProgramPage">
 
     <Grid>
-        <Label Content="Titel" HorizontalAlignment="Left" Margin="435,56,0,0" VerticalAlignment="Top" Width="95"/>
-        <Label Content="Genre" HorizontalAlignment="Left" Margin="435,146,0,0" VerticalAlignment="Top" Width="120"/>
-        <Label Content="Spilletid" HorizontalAlignment="Left" Margin="112,291,0,0" VerticalAlignment="Top" Width="140"/>
-        <Label Content="Varighed" HorizontalAlignment="Left" Margin="435,291,0,0" VerticalAlignment="Top" Width="115"/>
-        <Label Content="Instruktør" HorizontalAlignment="Left" Margin="435,217,0,0" VerticalAlignment="Top" Width="125"/>
-        <Label Content="Premiere dato" HorizontalAlignment="Left" Margin="112,217,0,0" VerticalAlignment="Top" Width="96"/>
-        <Label Content="Sal" HorizontalAlignment="Left" Margin="112,146,0,0" VerticalAlignment="Top" Width="90"/>
-        <TextBox x:Name="Title" HorizontalAlignment="Left" Margin="580,60,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
-        <TextBox x:Name="Genre" HorizontalAlignment="Left" Margin="580,150,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
-        <TextBox x:Name="PlayingTime" HorizontalAlignment="Left" Margin="254,295,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
-        <TextBox x:Name="Duration" HorizontalAlignment="Left" Margin="580,295,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
-        <TextBox x:Name="Director" HorizontalAlignment="Left" Margin="580,221,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
-        <TextBox x:Name="Screen" HorizontalAlignment="Left" Margin="254,150,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
-        <TextBox x:Name="PremiereDate" HorizontalAlignment="Left" Margin="254,221,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
-        <Button Content="Clear" HorizontalAlignment="Left" Margin="580,345,0,0" VerticalAlignment="Top" Click="ClearButton_Click"/>
-        <Button Content="Gem" HorizontalAlignment="Left" Margin="660,345,0,0" VerticalAlignment="Top" Click="SaveButton_Click" RenderTransformOrigin="0.693,2.004"/>
-        <Label Content="Biograf" HorizontalAlignment="Left" Margin="112,55,0,0" VerticalAlignment="Top" Width="110"/>
-        <TextBox x:Name="MovieTheater" HorizontalAlignment="Left" Margin="254,60,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
-        <Label Content="By" HorizontalAlignment="Left" Margin="112,356,0,0" VerticalAlignment="Top"/>
-       <TextBox x:Name="City" HorizontalAlignment="Left" Margin="254,360,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
-
+        <Label Content="Title" HorizontalAlignment="Left" Margin="45,43,0,0" VerticalAlignment="Top" Width="96"/>
+        <Label Content="Genre" HorizontalAlignment="Left" Margin="45,92,0,0" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Play time" HorizontalAlignment="Left" Margin="44,286,0,0" VerticalAlignment="Top" Width="140"/>
+        <Label Content="Duration" HorizontalAlignment="Left" Margin="45,139,0,0" VerticalAlignment="Top" Width="116"/>
+        <Label Content="Producer" HorizontalAlignment="Left" Margin="52,414,0,0" VerticalAlignment="Top" Width="125"/>
+        <Label Content="Premiere date" HorizontalAlignment="Left" Margin="4,329,0,0" VerticalAlignment="Top" Width="96"/>
+        <Label Content="Hall" HorizontalAlignment="Left" Margin="45,239,0,0" VerticalAlignment="Top" Width="90"/>
+        <TextBox x:Name="Title" HorizontalAlignment="Left" Margin="116,47,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="Genre" HorizontalAlignment="Left" Margin="116,96,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="PlayingTime" HorizontalAlignment="Left" Margin="116,290,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="Duration" HorizontalAlignment="Left" Margin="117,143,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="Director" HorizontalAlignment="Left" Margin="116,418,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="Screen" HorizontalAlignment="Left" Margin="117,243,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="PremiereDate" HorizontalAlignment="Left" Margin="117,333,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Clear" HorizontalAlignment="Left" Margin="259,143,0,0" VerticalAlignment="Top" Click="ClearButton_Click"/>
+        <Button Content="Save" HorizontalAlignment="Left" Margin="261,284,0,0" VerticalAlignment="Top" Click="SaveButton_Click" RenderTransformOrigin="0.693,2.004"/>
+        <Label Content="Cinema" HorizontalAlignment="Left" Margin="45,190,0,0" VerticalAlignment="Top" Width="110"/>
+        <TextBox x:Name="MovieTheater" HorizontalAlignment="Left" Margin="117,194,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="City" HorizontalAlignment="Left" Margin="52,372,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="City" HorizontalAlignment="Left" Margin="117,376,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <DataGrid x:Name="MoviesDataGridFull" AutoGenerateColumns="True" Margin="396,47,34,47" SelectionChanged="MoviesDataGridFull_SelectionChanged"/>
     </Grid>
 </Page>

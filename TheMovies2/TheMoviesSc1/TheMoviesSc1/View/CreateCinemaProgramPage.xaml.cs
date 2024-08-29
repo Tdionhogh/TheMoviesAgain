@@ -22,12 +22,53 @@ namespace TheMoviesSc1.View
  
     public partial class CreateCinemaProgramPage : Page
     {
-   
+        private DataHandler _dataHandler;
+
+
+
+        private readonly MovieViewModel _viewModel;
 
         public CreateCinemaProgramPage()
         {
             InitializeComponent();
+            _viewModel = new MovieViewModel();
+            DataContext = _viewModel;
 
+            string filePath = System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Uge33-TheMovies_Full.csv");
+
+
+            _dataHandler = new DataHandler(filePath);
+            LoadMoviesToDataGrid();
+        }
+
+        private void LoadMoviesToDataGrid()
+        {
+            try
+            {
+                List<Movie> movies = _dataHandler.GetMovies();
+                MoviesDataGridFull.ItemsSource = movies;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"An error occured while loading movies: {ex.Message}");
+
+            }
+        }
+
+        private void MoviesDataGrid_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            if (MoviesDataGridFull.SelectedItem is Movie selectedMovie)
+            {               
+                Title.Text = selectedMovie.Name;
+                Duration.Text = selectedMovie.Name;
+                Genre.Text = selectedMovie.Name;
+                PlayingTime.Text = selectedMovie.Name;
+                Screen.Text = selectedMovie.Name;
+                Director.Text = selectedMovie.Name;
+                PremiereDate.Text = selectedMovie.Name;
+                MovieTheater.Text = selectedMovie.Name;
+                City.Text = selectedMovie.Name;
+            }
         }
 
         private void ClearButton_Click(object sender, RoutedEventArgs e)
@@ -79,6 +120,9 @@ namespace TheMoviesSc1.View
             }
         }
 
-      
+        private void MoviesDataGridFull_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
     }
 }

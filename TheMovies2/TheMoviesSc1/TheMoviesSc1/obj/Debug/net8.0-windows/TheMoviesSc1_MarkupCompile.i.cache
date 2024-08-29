@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\tdhog\Source\Repos\TheMoviesAgain\TheMovies2\TheMoviesSc1\TheMoviesSc1\obj\Debug\net8.0-windows\
+C:\Users\burak\source\repos\TheMoviesAgain\TheMovies2\TheMoviesSc1\TheMoviesSc1\obj\Debug\net8.0-windows\
 TheMoviesSc1
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\tdhog\Source\Repos\TheMoviesAgain\TheMovies2\TheMoviesSc1\TheMoviesSc1\App.xaml
+C:\Users\burak\source\repos\TheMoviesAgain\TheMovies2\TheMoviesSc1\TheMoviesSc1\App.xaml
 31636620869
 
 17-606783545
 198-556154604
 View\CreateCinemaProgramPage.xaml;View\MainWindow.xaml;View\RegisterMoviePage.xaml;
 
-True
+False
 

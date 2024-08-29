@@ -1,0 +1,14 @@
+C:\Users\burak\source\repos\Uge35Opgaver\Uge35Opgaver\bin\Debug\net8.0\StringExtensions.exe
+C:\Users\burak\source\repos\Uge35Opgaver\Uge35Opgaver\bin\Debug\net8.0\StringExtensions.deps.json
+C:\Users\burak\source\repos\Uge35Opgaver\Uge35Opgaver\bin\Debug\net8.0\StringExtensions.runtimeconfig.json
+C:\Users\burak\source\repos\Uge35Opgaver\Uge35Opgaver\bin\Debug\net8.0\StringExtensions.dll
+C:\Users\burak\source\repos\Uge35Opgaver\Uge35Opgaver\bin\Debug\net8.0\StringExtensions.pdb
+C:\Users\burak\source\repos\Uge35Opgaver\Uge35Opgaver\obj\Debug\net8.0\StringExtensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\source\repos\Uge35Opgaver\Uge35Opgaver\obj\Debug\net8.0\StringExtensions.AssemblyInfoInputs.cache
+C:\Users\burak\source\repos\Uge35Opgaver\Uge35Opgaver\obj\Debug\net8.0\StringExtensions.AssemblyInfo.cs
+C:\Users\burak\source\repos\Uge35Opgaver\Uge35Opgaver\obj\Debug\net8.0\StringExtensions.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\Uge35Opgaver\Uge35Opgaver\obj\Debug\net8.0\StringExtensions.dll
+C:\Users\burak\source\repos\Uge35Opgaver\Uge35Opgaver\obj\Debug\net8.0\refint\StringExtensions.dll
+C:\Users\burak\source\repos\Uge35Opgaver\Uge35Opgaver\obj\Debug\net8.0\StringExtensions.pdb
+C:\Users\burak\source\repos\Uge35Opgaver\Uge35Opgaver\obj\Debug\net8.0\StringExtensions.genruntimeconfig.cache
+C:\Users\burak\source\repos\Uge35Opgaver\Uge35Opgaver\obj\Debug\net8.0\ref\StringExtensions.dll

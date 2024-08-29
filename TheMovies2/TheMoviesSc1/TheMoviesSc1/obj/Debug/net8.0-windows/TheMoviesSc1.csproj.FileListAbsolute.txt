@@ -26,9 +26,7 @@ C:\Users\burak\source\repos\TheMoviesAgain\TheMovies2\TheMoviesSc1\TheMoviesSc1\
 C:\Users\burak\source\repos\TheMoviesAgain\TheMovies2\TheMoviesSc1\TheMoviesSc1\bin\Debug\net8.0-windows\TheMoviesSc1.dll
 C:\Users\burak\source\repos\TheMoviesAgain\TheMovies2\TheMoviesSc1\TheMoviesSc1\bin\Debug\net8.0-windows\TheMoviesSc1.pdb
 C:\Users\burak\source\repos\TheMoviesAgain\TheMovies2\TheMoviesSc1\TheMoviesSc1\obj\Debug\net8.0-windows\View\MainWindow.baml
-C:\Users\burak\source\repos\TheMoviesAgain\TheMovies2\TheMoviesSc1\TheMoviesSc1\obj\Debug\net8.0-windows\View\RegisterMovieWindow.baml
 C:\Users\burak\source\repos\TheMoviesAgain\TheMovies2\TheMoviesSc1\TheMoviesSc1\obj\Debug\net8.0-windows\View\MainWindow.g.cs
-C:\Users\burak\source\repos\TheMoviesAgain\TheMovies2\TheMoviesSc1\TheMoviesSc1\obj\Debug\net8.0-windows\View\RegisterMovieWindow.g.cs
 C:\Users\burak\source\repos\TheMoviesAgain\TheMovies2\TheMoviesSc1\TheMoviesSc1\obj\Debug\net8.0-windows\App.g.cs
 C:\Users\burak\source\repos\TheMoviesAgain\TheMovies2\TheMoviesSc1\TheMoviesSc1\obj\Debug\net8.0-windows\TheMoviesSc1_MarkupCompile.cache
 C:\Users\burak\source\repos\TheMoviesAgain\TheMovies2\TheMoviesSc1\TheMoviesSc1\obj\Debug\net8.0-windows\TheMoviesSc1.g.resources
@@ -70,3 +68,5 @@ C:\Users\tdhog\Source\Repos\TheMoviesAgain\TheMovies2\TheMoviesSc1\TheMoviesSc1\
 C:\Users\tdhog\Source\Repos\TheMoviesAgain\TheMovies2\TheMoviesSc1\TheMoviesSc1\obj\Debug\net8.0-windows\TheMoviesSc1.pdb
 C:\Users\tdhog\Source\Repos\TheMoviesAgain\TheMovies2\TheMoviesSc1\TheMoviesSc1\obj\Debug\net8.0-windows\TheMoviesSc1.genruntimeconfig.cache
 C:\Users\tdhog\Source\Repos\TheMoviesAgain\TheMovies2\TheMoviesSc1\TheMoviesSc1\obj\Debug\net8.0-windows\ref\TheMoviesSc1.dll
+C:\Users\burak\source\repos\TheMoviesAgain\TheMovies2\TheMoviesSc1\TheMoviesSc1\obj\Debug\net8.0-windows\View\CreateCinemaProgramPage.g.cs
+C:\Users\burak\source\repos\TheMoviesAgain\TheMovies2\TheMoviesSc1\TheMoviesSc1\obj\Debug\net8.0-windows\View\CreateCinemaProgramPage.baml
